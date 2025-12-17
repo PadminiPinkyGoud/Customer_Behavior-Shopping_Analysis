@@ -51,7 +51,6 @@ The dataset contains customer demographic information, purchase details, product
 ---
 
 ## Dashboard Insights
-![Customer Behaviour Dashboard](screenshots/dashboard.png)
 - Revenue distribution by customer demographics  
 - Customer segmentation overview  
 - Best-performing products and categories  
